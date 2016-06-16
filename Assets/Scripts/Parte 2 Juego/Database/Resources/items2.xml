@@ -1,0 +1,63 @@
+<ItemCollection>
+	<Items>
+	
+	<Item tipo="1">
+		<Item numero="1">
+			<Pregunta>Pregunta1</Pregunta>
+			<Correcta>Correcta1</Correcta>
+			<Erronea1>Erronea 1</Erronea1>
+			<Erronea2>Erronea 2</Erronea2>
+			<Erronea3>Erronea 3</Erronea3>
+		</Item>
+	</Item>
+	
+	<Item tipo="1">
+	
+		<Item numero="2">
+			<Pregunta>Pregunta2</Pregunta>
+			<Correcta>Correcta2</Correcta>
+			<Erronea1>Erronea 1</Erronea1>
+			<Erronea2>Erronea 2</Erronea2>
+			<Erronea3>Erronea 3</Erronea3>
+		</Item>
+	</Item>
+	
+	<Item tipo="1">
+		<Item numero="3">
+			<Pregunta>Pregunta3</Pregunta>
+			<Correcta>Correcta3</Correcta>
+			<Erronea1>Erronea 1</Erronea1>
+			<Erronea2>Erronea 2</Erronea2>
+			<Erronea3>Erronea 3</Erronea3>
+		</Item>
+	</Item>
+	
+	<Item tipo="1">	
+		<Item numero="4">
+			<Pregunta>Pregunta4</Pregunta>
+			<Correcta>Correcta4</Correcta>
+			<Erronea1>Erronea 1</Erronea1>
+			<Erronea2>Erronea 2</Erronea2>
+			<Erronea3>Erronea 3</Erronea3>
+		</Item>
+	</Item>
+	
+	
+		//*******************************************************************************************************************************************************************	
+					
+	<Item tipo="2">
+		<Item numero="1">
+			<Pregunta>Pregunta3</Pregunta>
+			
+		</Item>
+	</Item>
+	
+	<Item tipo="2">	
+		<Item numero="1">
+			<Pregunta>Pregunta4</Pregunta>
+			
+		</Item>
+	</Item>		
+	</Items>
+
+</ItemCollection>
